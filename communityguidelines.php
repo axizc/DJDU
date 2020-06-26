@@ -1,4 +1,4 @@
-
+<html>
 <style>
 
 </style>
@@ -24,3 +24,4 @@ Do not post anything dangerous or pontentially harmful
 Any post violating the guidelines will be deleted by a moderator immedietly.
 Your account will also be deleted forever.
 </ul>
+</html>
