@@ -1,3 +1,6 @@
+<!-- 
+User can reset password
+-->
 <?php 
  session_start();
      $users=array();
