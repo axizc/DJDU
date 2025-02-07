@@ -1,7 +1,7 @@
     
 <html>
 <!-- 
-we can write comments here to each other
+Actual page user sees when they click forget password
 -->
 <?php 
 session_start();
