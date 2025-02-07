@@ -1,6 +1,6 @@
 <html>
 <!-- 
-we can write comments here to each other
+Contains images of art from a book I created
 -->
 <?php 
 session_start();
