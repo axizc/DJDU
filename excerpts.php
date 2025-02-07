@@ -1,6 +1,6 @@
 <html>
 <!-- 
-we can write comments here to each other
+Excerpts from the book
 -->
 <?php 
 session_start();
