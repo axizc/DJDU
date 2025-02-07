@@ -1,7 +1,7 @@
     
 <html>
 <!-- 
-we can write comments here to each other
+Login page
 -->
 <?php 
 session_start();
