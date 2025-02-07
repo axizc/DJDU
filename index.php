@@ -1,6 +1,6 @@
 <html>
 <!-- 
-we can write comments here to each other
+Copy of foru.php
 -->
 <?php 
 session_start();
