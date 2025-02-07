@@ -1,6 +1,6 @@
 <html>
 <!-- 
-we can write comments here to each other
+Page to contact, it directly goes to my email
 -->
 <?php 
 session_start();
