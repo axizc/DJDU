@@ -1,6 +1,6 @@
 <html>
 <!-- 
-we can write comments here to each other
+About the website+creator
 -->
 <?php 
 session_start();
@@ -110,7 +110,8 @@ p{
 echo "<li id='userrr'><a href=\"welcome.php\">",$_COOKIE[user],"</a></li>";?>
   </div>
 </ul>
-<p>There's not really much to say, but we are a team of two, @at, and @Rosie, who created a website for their book, The Evettes and the Rise of the DJDU's. We sincerely hope that you enjoyed our website so far.  In 2 or 3 months, the book will be released. In fact one of the best parts about is that it is free for all of those who sign up for our website. We just hope that you respect our hard work and don't use it on other platforms
+<p>
+  This is a messaging website created by Ameya Tanikella.
  </p>
   </body>
   <?php 
