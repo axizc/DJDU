@@ -1,6 +1,6 @@
 <html>
 <!-- 
-Contains images of art from a book I created
+Contains images of art from a book I created and also allows users to submit art!
 -->
 <?php 
 session_start();
