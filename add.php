@@ -1,5 +1,7 @@
 <!-- 
-Hello driti if you're wondering why there is even an add.php it is just the coding. When you sign up it takes you to add.php so that your data can be saved or if your username is already taken it can go back and tell them that it is already taken. After this page they will be taken to welcome.php
+Adds a new user to the SQL Database
+Checks if their username is already taken
+Creates a cookie based on login info
 -->
 Loading please wait a few seconds...
 <?php  
