@@ -1,6 +1,6 @@
 <html>
 <!-- 
-we can write comments here to each other
+Users can post forum messages and comment on each other's posts.
 -->
 <?php 
 session_start();
