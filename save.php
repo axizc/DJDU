@@ -1,3 +1,6 @@
+<!-- 
+Saves a forum post to the SQL database
+-->
 Loading please wait a few seconds...
 <?php  
 $timestamp = time();
