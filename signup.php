@@ -1,6 +1,6 @@
 <html>
 <!-- 
-we can write comments here to each other
+signup page
 -->
 <?php 
 session_start();
