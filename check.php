@@ -1,4 +1,7 @@
- <?php
+<!-- 
+Checks the password of a user and either sends them back to the login page or the welcome page. Uses sha256 hashing to ensure security.
+-->
+<?php
     session_start();
     $users=array();
     $password=array();
